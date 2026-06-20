@@ -6,7 +6,7 @@ Feel free to check out my repositories and also visit my [website](https://10ku.
 
 ---
 
-## Skills
+## Experience
 
 <table>
   <tr>
@@ -15,7 +15,7 @@ Feel free to check out my repositories and also visit my [website](https://10ku.
   </tr>
   <tr>
     <td align="left" width="120px"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tauri,solidjs" /></td>
   </tr>
   <tr>
     <td align="left" width="120px"><b>Libraries</b></td>
